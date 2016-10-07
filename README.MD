@@ -1,3 +1,3 @@
 # Camel Basic
 
-Basical camel application using blueprint xml
+Basic camel application using blueprint DSL
